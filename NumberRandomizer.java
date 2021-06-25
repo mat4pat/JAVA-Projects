@@ -51,6 +51,7 @@ public class NumberRandomizerMaxAndMin {
     }
 
     public static void main(String[] args) {
+        //You enter the input for max and min as arguments for the method.
         System.out.println("\nWere all the numbers generated only once? " + randomizeNumbersAndReturnResults(3,1));
 
     }
