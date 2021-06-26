@@ -1,0 +1,4 @@
+  This is a little testing after first NumberRandomizer project.
+  
+  I've added a feature to determine maximum number range for randomizer by seeing how many objects were created,
+  the minimum number range for randomizer would be determined by user input.
