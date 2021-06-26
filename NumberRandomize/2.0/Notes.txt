@@ -3,3 +3,6 @@
   Both of the classes need to be imported, or be in the same package, my package's name was 'mat4pat'.
   I've added a feature to determine maximum number range for randomizer by seeing how many objects were created,
   the minimum number range for randomizer would be determined by user input.
+  
+  Of course, for simplicity, you could decide to just create the objects inside the original class,
+  NumberRandomizer, instead of class CreateObjectsHere, however I'm new and I like to test the modifiers, and see how OOP works.
