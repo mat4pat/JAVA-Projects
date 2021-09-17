@@ -9,4 +9,4 @@ later compile all the .java files and run ExecuteReminder.jar.
 If you forget Work.txt, it will be created automatically if you forget it.
 
 I believe I explained most of my code at good detail while trying to keep it fairly short,
-suggestions, feedback and questions are more always welcome.
+suggestions, feedback and questions are always welcome.
